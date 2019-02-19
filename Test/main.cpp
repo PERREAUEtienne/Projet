@@ -10,7 +10,7 @@ int main()
     std::cin >> a;
     for (int i=0 ; i<a ; i++)
     {
-        printf("nikomouk ");
+        printf("nikomouk et bonne année ");
     }
 
 
